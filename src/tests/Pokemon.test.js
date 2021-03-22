@@ -31,7 +31,9 @@ describe('Testando o componente Pokemon.js', () => {
     const { getByText, getByTestId, history } = renderWithRouter(<App />);
     const linkToPokemonDetails = getByText('More details');
     const currentPokemonName = getByTestId(pokemonNameTestId).innerHTML;
-    const currentPokemonObject = Pokemons.find((pokemon) => pokemon.name === currentPokemonName);
+    const currentPokemonObject = Pokemons.find((pokemon) => (
+      pokemon.name === currentPokemonName
+    ));
 
     fireEvent.click(linkToPokemonDetails);
 
