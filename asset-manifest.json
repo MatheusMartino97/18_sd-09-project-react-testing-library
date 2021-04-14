@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/18_sd-09-project-react-testing-library/static/css/main.88a5c871.chunk.css",
+    "main.js": "/18_sd-09-project-react-testing-library/static/js/main.b9340dbe.chunk.js",
+    "main.js.map": "/18_sd-09-project-react-testing-library/static/js/main.b9340dbe.chunk.js.map",
+    "runtime-main.js": "/18_sd-09-project-react-testing-library/static/js/runtime-main.9b57e481.js",
+    "runtime-main.js.map": "/18_sd-09-project-react-testing-library/static/js/runtime-main.9b57e481.js.map",
+    "static/js/2.01afe734.chunk.js": "/18_sd-09-project-react-testing-library/static/js/2.01afe734.chunk.js",
+    "static/js/2.01afe734.chunk.js.map": "/18_sd-09-project-react-testing-library/static/js/2.01afe734.chunk.js.map",
+    "index.html": "/18_sd-09-project-react-testing-library/index.html",
+    "precache-manifest.b1a1fdbb79fc66fcdfa869b386223c94.js": "/18_sd-09-project-react-testing-library/precache-manifest.b1a1fdbb79fc66fcdfa869b386223c94.js",
+    "service-worker.js": "/18_sd-09-project-react-testing-library/service-worker.js",
+    "static/css/main.88a5c871.chunk.css.map": "/18_sd-09-project-react-testing-library/static/css/main.88a5c871.chunk.css.map",
+    "static/js/2.01afe734.chunk.js.LICENSE.txt": "/18_sd-09-project-react-testing-library/static/js/2.01afe734.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b57e481.js",
+    "static/js/2.01afe734.chunk.js",
+    "static/css/main.88a5c871.chunk.css",
+    "static/js/main.b9340dbe.chunk.js"
+  ]
+}
